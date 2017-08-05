@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="ArmenDiplom" Class="ArmenDiplomDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CHARTER\SQLDEVELOPER;Initial Catalog=ArmenDiplom;Persist Security Info=True;User ID=sa" SettingsObjectName="ArmenDiplom.Properties.Settings" SettingsPropertyName="ArmenDiplomConnectionString3" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Counters" Member="Counters">
+    <Type Name="Counter">
+      <Column Name="CounterID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ShkafID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CounterOwner" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Column Name="TelephoneOwner" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="InstallDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="PoverkaDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Counter_CounterStatement" Member="CounterStatements" OtherKey="CounterID" Type="CounterStatement" />
+      <Association Name="Shkaf_Counter" Member="Shkaf" ThisKey="ShkafID" Type="Shkaf" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CounterStatements" Member="CounterStatements">
+    <Type Name="CounterStatement">
+      <Column Name="CounterStatementID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CounterID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Month" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Year" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tarif1" Type="System.Decimal" DbType="Decimal(5,1) NOT NULL" CanBeNull="false" />
+      <Column Name="Tarif2" Type="System.Decimal" DbType="Decimal(5,1) NOT NULL" CanBeNull="false" />
+      <Column Name="Tarif3" Type="System.Decimal" DbType="Decimal(5,1) NOT NULL" CanBeNull="false" />
+      <Column Name="Tarif4" Type="System.Decimal" DbType="Decimal(5,1) NOT NULL" CanBeNull="false" />
+      <Association Name="Counter_CounterStatement" Member="Counter" ThisKey="CounterID" Type="Counter" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Shkafs" Member="Shkafs">
+    <Type Name="Shkaf">
+      <Column Name="ShkafID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="InstallDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="PoverkaDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Installer" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="CountersQuantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Password1" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="Password2" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="Password3" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Association Name="Shkaf_Counter" Member="Counters" OtherKey="ShkafID" Type="Counter" />
+      <Association Name="Shkaf_ShkafStatement" Member="ShkafStatements" OtherKey="ShkafID" Type="ShkafStatement" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ShkafStatements" Member="ShkafStatements">
+    <Type Name="ShkafStatement">
+      <Column Name="ShkafStatementID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShkafID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Year" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Month" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AccessQuantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BadAccessQuantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Power" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Shkaf_ShkafStatement" Member="Shkaf" ThisKey="ShkafID" Type="Shkaf" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+</Database>

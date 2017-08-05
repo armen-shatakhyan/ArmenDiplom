@@ -1,0 +1,10 @@
+bin\Debug\ArmenDiplom.exe
+bin\Debug\ArmenDiplom.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ArmenDiplom.Properties.Resources.resources
+obj\Debug\ArmenDiplom.csproj.GenerateResource.Cache
+obj\Debug\ArmenDiplom.exe
+obj\Debug\ArmenDiplom.pdb
+obj\Debug\ArmenDiplom.MainForm.resources
+obj\Debug\ArmenDiplom.NewShkaf.resources
+obj\Debug\ArmenDiplom.DeleteShkaf.resources

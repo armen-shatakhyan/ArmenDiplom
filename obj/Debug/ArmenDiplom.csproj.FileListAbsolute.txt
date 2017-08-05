@@ -1,0 +1,84 @@
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeShkaf.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteShkaf.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.MainForm.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewCounter.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewShkaf.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.Properties.Resources.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.csproj.GenerateResource.Cache
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.pdb
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.exe
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.pdb
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.exe
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.pdb
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeShkaf.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteShkaf.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.MainForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewCounter.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewShkaf.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.Properties.Resources.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.csproj.GenerateResource.Cache
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.pdb
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteCounter.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteCounter.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeCounter.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeCounter.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.AboutProgram.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe.config
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe.config
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.AboutProgram.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.InputBadAccess.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PowerSearch.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.BadAccess.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NoInformation.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PoverkaCounter.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.CounterInformation.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PowerReportForm.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.BadAccessReportForm.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NoInformationReportForm.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PoverkaCounterReportForm.resources
+C:\Documents and Settings\Armen\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.CounterInformationReportForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.InputBadAccess.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.BadAccessReportForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.CounterInformationReportForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NoInformationReportForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PoverkaCounterReportForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PowerReportForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.BadAccess.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.CounterInformation.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NoInformation.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PoverkaCounter.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2008\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PowerSearch.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe.config
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.exe
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.pdb
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.AboutProgram.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeCounter.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeShkaf.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteCounter.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteShkaf.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.InputBadAccess.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.MainForm.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewCounter.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewShkaf.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.Properties.Resources.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.BadAccessReportForm.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.CounterInformationReportForm.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NoInformationReportForm.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PoverkaCounterReportForm.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PowerReportForm.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.BadAccess.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.CounterInformation.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NoInformation.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PoverkaCounter.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.PowerSearch.resources
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ResGen.read.1.tlog
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ResGen.write.1.tlog
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.pdb
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.csprojResolveAssemblyReference.cache
+D:\Documents\C# Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.csproj.GenerateResource.Cache

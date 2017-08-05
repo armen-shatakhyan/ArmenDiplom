@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ArmenDiplom">
+  <DataContextMoniker Name="/ArmenDiplomDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e18d159a-8fc3-4adb-b627-f287ce440cd9" absoluteBounds="3.5, 3.75, 2, 1.7535424804687505">
+      <DataClassMoniker Name="/ArmenDiplomDataContext/Counter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44bd103e-42f7-439e-88ee-fa6914680617" absoluteBounds="3.515, 4.21, 1.9700000000000002, 1.19354248046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0d545024-f1ef-434d-951d-b13080b181b7" absoluteBounds="6.125, 3.625, 2, 2.0822371419270831">
+      <DataClassMoniker Name="/ArmenDiplomDataContext/CounterStatement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70260903-7fed-466a-bd9f-ba4a6d5e0a6f" absoluteBounds="6.14, 4.085, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 4.46875); (5.8 : 4.46875); (5.8 : 4.53125); (6.125 : 4.53125)]" fixedFrom="Caller" fixedTo="Caller">
+      <AssociationMoniker Name="/ArmenDiplomDataContext/Counter/Counter_CounterStatement" />
+      <nodes>
+        <classShapeMoniker Id="e18d159a-8fc3-4adb-b627-f287ce440cd9" />
+        <classShapeMoniker Id="0d545024-f1ef-434d-951d-b13080b181b7" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6842c00b-3899-4cf9-95f7-d0c8fce21299" absoluteBounds="0.625, 2.625, 2, 2.24658447265625">
+      <DataClassMoniker Name="/ArmenDiplomDataContext/Shkaf" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79269e88-05dc-4957-b880-63f968dd2e5f" absoluteBounds="0.64000000000000012, 3.085, 1.9700000000000002, 1.68658447265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 3.33333333333333); (2.95833333333333 : 3.33333333333333); (2.95833333333333 : 4.62677124023438); (3.5 : 4.62677124023438)]" manuallyRouted="true" fixedFrom="Caller" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ArmenDiplomDataContext/Shkaf/Shkaf_Counter" />
+      <nodes>
+        <classShapeMoniker Id="6842c00b-3899-4cf9-95f7-d0c8fce21299" />
+        <classShapeMoniker Id="e18d159a-8fc3-4adb-b627-f287ce440cd9" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="03674089-332d-4529-aaf7-d4109beddcff" absoluteBounds="3.5, 1.625, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/ArmenDiplomDataContext/ShkafStatement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b0e2c2d0-949a-45df-8390-2356d82b2aaa" absoluteBounds="3.5149999999999997, 2.085, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.625 : 3.29166666666667); (3 : 3.29166666666667); (3 : 2.53125); (3.5 : 2.53125)]" fixedFrom="Caller" fixedTo="Caller">
+      <AssociationMoniker Name="/ArmenDiplomDataContext/Shkaf/Shkaf_ShkafStatement" />
+      <nodes>
+        <classShapeMoniker Id="6842c00b-3899-4cf9-95f7-d0c8fce21299" />
+        <classShapeMoniker Id="03674089-332d-4529-aaf7-d4109beddcff" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

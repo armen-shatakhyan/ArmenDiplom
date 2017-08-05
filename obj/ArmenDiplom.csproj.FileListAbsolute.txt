@@ -1,0 +1,13 @@
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.exe
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.pdb
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.exe
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\bin\Debug\ArmenDiplom.pdb
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.MainForm.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewShkaf.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.Properties.Resources.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.csproj.GenerateResource.Cache
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.DeleteShkaf.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.ChangeShkaf.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.AboutBox1.resources
+C:\Documents and Settings\shatakhian\My Documents\Visual Studio 2005\Projects\ArmenDiplom\ArmenDiplom\obj\Debug\ArmenDiplom.NewCounter.resources
